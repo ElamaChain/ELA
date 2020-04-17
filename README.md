@@ -39,9 +39,7 @@ business to freely share and enjoy the ideas and fruits of the project.
 ## Resources
 <b><a href="https://www.elamachain.io">ELAMACHAIN Website</a>
 
-<a href="https://www.elamachain.io">Whitepaper</a>
-
-<a href="https://www.elamachain.io">Litepaper</a></b>
+<a href="https://www.elamachain.io/img/whitepaper.pdf">Whitepaper</a>
 
 ## Documentation
 
