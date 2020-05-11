@@ -7,7 +7,7 @@ users and businesses in connection with existing ecosystem, including real-time 
 system and crypto-payable installments in retail area.
 
 ELA Coin(ELAMA) sustains Elamachain’s ecosystem by continuously connecting needs of customers, who are
-rewarded for data contribution to AI system and enjoy various embedded service network with ELAC, merchants,
+rewarded for data contribution to AI system and enjoy various embedded service network with ELAMA, merchants,
 who can greatly benefit from business promotion and cryptocurrency payments, and business partners who can
 improve their competiveness via AI solutions provided by ELAMACHAIN platform.
 
@@ -24,10 +24,10 @@ network’s distributed storage are clear advantage for an AI in a era of data f
 
 Even in its earlier AI maturement, ELAMACHAIN platform is capable of offering attractive ecosystem to parties
 of interest by being linked to solid “real-world” usage infrastructure. As ELAMACHAIN Foundation is already operating
-working payment infrastructure in pre-paid card services and POS installments, crypto-payment mainly by means of ELAC
+working payment infrastructure in pre-paid card services and POS installments, crypto-payment mainly by means of ELAMA
 can be easily implemented for daily use. Also, ELAMACHAIN has built strategic partnership with Korean plastic surgery
 hospitals and duty-free shops, which target Chinese visitors with high purchase power, that can maximize the utility of
-ELAC-use environment.
+ELAMA-use environment.
 
 ## Vision
 
