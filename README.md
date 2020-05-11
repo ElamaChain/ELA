@@ -6,7 +6,7 @@ ELAMACHAIN platform integrates blockchain technology and AI services to meet the
 users and businesses in connection with existing ecosystem, including real-time cryptocurrency payment
 system and crypto-payable installments in retail area.
 
-ELA Coin(ELAC) sustains Elamachain’s ecosystem by continuously connecting needs of customers, who are
+ELA Coin(ELAMA) sustains Elamachain’s ecosystem by continuously connecting needs of customers, who are
 rewarded for data contribution to AI system and enjoy various embedded service network with ELAC, merchants,
 who can greatly benefit from business promotion and cryptocurrency payments, and business partners who can
 improve their competiveness via AI solutions provided by ELAMACHAIN platform.
@@ -43,9 +43,8 @@ business to freely share and enjoy the ideas and fruits of the project.
 
 ## Documentation
 
-<b><a href="https://www.elamachain.io/assets/files/terms_en.pdf">Terms and Conditions</a>
-
-<a href="https://www.elamachain.io/assets/files/privacy_policy_en.pdf">Privacy Policy</a></b>
+<b>
+<a href="https://www.elamachain.io/docs/privacy_policy_en.pdf">Privacy Policy</a></b>
 
 ## Community
 <a href="https://medium.com/@elamachain"><img src="https://simpleicons.org/icons/medium.svg" height=40 widht=40></a>&nbsp;&nbsp;&nbsp;&nbsp;
